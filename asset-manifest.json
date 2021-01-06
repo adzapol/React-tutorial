@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-tutorial/static/css/main.5d4a7947.chunk.css",
+    "main.js": "/React-tutorial/static/js/main.1c77414c.chunk.js",
+    "main.js.map": "/React-tutorial/static/js/main.1c77414c.chunk.js.map",
+    "runtime-main.js": "/React-tutorial/static/js/runtime-main.95d5d8bc.js",
+    "runtime-main.js.map": "/React-tutorial/static/js/runtime-main.95d5d8bc.js.map",
+    "static/js/2.22b5394b.chunk.js": "/React-tutorial/static/js/2.22b5394b.chunk.js",
+    "static/js/2.22b5394b.chunk.js.map": "/React-tutorial/static/js/2.22b5394b.chunk.js.map",
+    "static/js/3.2fbb83ac.chunk.js": "/React-tutorial/static/js/3.2fbb83ac.chunk.js",
+    "static/js/3.2fbb83ac.chunk.js.map": "/React-tutorial/static/js/3.2fbb83ac.chunk.js.map",
+    "static/js/4.ec3378fd.chunk.js": "/React-tutorial/static/js/4.ec3378fd.chunk.js",
+    "static/js/4.ec3378fd.chunk.js.map": "/React-tutorial/static/js/4.ec3378fd.chunk.js.map",
+    "index.html": "/React-tutorial/index.html",
+    "static/css/main.5d4a7947.chunk.css.map": "/React-tutorial/static/css/main.5d4a7947.chunk.css.map",
+    "static/js/2.22b5394b.chunk.js.LICENSE.txt": "/React-tutorial/static/js/2.22b5394b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95d5d8bc.js",
+    "static/js/2.22b5394b.chunk.js",
+    "static/css/main.5d4a7947.chunk.css",
+    "static/js/main.1c77414c.chunk.js"
+  ]
+}
